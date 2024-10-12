@@ -12,7 +12,7 @@
                 <mxCell id="3" value="num = int(input(&quot;user&quot;))" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="300" y="280" width="180" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="First we open a statemnet by which the user can type in a integer.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.41;" vertex="1" parent="1">
+                <mxCell id="4" value="First we open a statemnet by which the user can type in a integer.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.41;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
                     <mxGeometry x="370" y="210" width="220" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="13">
@@ -37,7 +37,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8" value="Set any number before the first prime as invalid.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.68;" vertex="1" parent="1">
+                <mxCell id="8" value="Set any number before the first prime as invalid.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.68;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
                     <mxGeometry x="40" y="320" width="190" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="&lt;font color=&quot;#ffffff&quot;&gt;Print() Not a prime number&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
